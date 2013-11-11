@@ -1,0 +1,6 @@
+name: Gail Dixon
+-
+profession: Graphic Designer
+-
+email:
+<gailjbdixon@gmail.com>
